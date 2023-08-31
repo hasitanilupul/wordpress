@@ -1,0 +1,16 @@
+[31/Aug/2023:12:38:30] (I): WordPress Instance Info:
+[31/Aug/2023:12:38:30] (I): Home URL : http://localhost/wordpress
+[31/Aug/2023:12:38:30] (I): Site URL : http://localhost/wordpress
+[31/Aug/2023:12:38:30] (I): WordPress Version : 6.3.1
+[31/Aug/2023:12:38:30] (I): Onboarding Version : 1.1.39
+[31/Aug/2023:12:38:30] (I): Multisite : No
+[31/Aug/2023:12:38:30] (I): Server Info : Apache/2.4.54 (Win64) PHP/8.0.26 mod_fcgid/2.3.10-dev
+[31/Aug/2023:12:38:30] (I): PHP Version : 8.0.26
+[31/Aug/2023:12:38:30] (I): HTTPS : No
+[31/Aug/2023:12:38:30] (I): PHP Max Execution Time : 120
+[31/Aug/2023:12:38:30] (I): PHP Max Input Vars : 2500
+[31/Aug/2023:12:38:30] (I): Max Upload Size : 2097152
+[31/Aug/2023:12:38:30] (I): Plugins:
+[31/Aug/2023:12:38:30] (I): [PLUGIN] Simply Static : v3.0.9 (Patrick Posner)
+[31/Aug/2023:12:38:30] (I): [PLUGIN] Templates Patterns Collection : v1.1.39 (ThemeIsle)
+[31/Aug/2023:12:38:30] (I): [PLUGIN] WP Pusher : v3.0.13 (WP Pusher)
